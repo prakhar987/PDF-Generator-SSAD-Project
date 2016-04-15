@@ -1,0 +1,10 @@
+body {
+background-image: url(pandey.gif); /*You will specify your image path here.*/
+
+-moz-background-size: cover;
+-webkit-background-size: cover ;
+background-size: 100%;
+background-position:  center !important;
+background-repeat: no-repeat !important;
+background-attachment: fixed;
+}
